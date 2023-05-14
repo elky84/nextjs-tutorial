@@ -1,0 +1,17 @@
+{
+  "name": "next-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-unfetch": "^4.0.2",
+    "next": "^13.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
