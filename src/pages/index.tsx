@@ -1,6 +1,7 @@
 import Layout from "../components/Layout";
 import Link from "next/link";
 import fetch from "isomorphic-unfetch";
+import React from "react";
 
 const ProfileLink = props => (
   <div>
