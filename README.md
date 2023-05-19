@@ -1,4 +1,4 @@
-# next-js-tutorial
+# nextjs-tutorial
 
 [Next.js 필요한 것만 빨리 배우기](https://velog.io/@jakeseo_me/Next.js-%EB%B9%A8%EB%A6%AC-%EB%B0%B0%EC%9A%B0%EA%B8%B0-y0jz9oebn0) 를 실습했고, 
 
